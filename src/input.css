@@ -1,1 +1,13 @@
 @import "tailwindcss";
+.hero-title {
+  font-weight: 500;
+  letter-spacing: -0.015em;
+}
+
+
+.hero-subtitle {
+  font-weight: 400;
+  opacity: 0.75;
+  line-height: 1.6;
+}
+
